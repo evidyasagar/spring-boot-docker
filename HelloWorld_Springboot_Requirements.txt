@@ -1,0 +1,18 @@
+challenges:
+
+springboot application download
+opening the project in intellij IDE developer
+Project JDK was activated while generating the snapshot for springboot application 
+
+pre requisities:
+maven
+intelliJ IDE
+docker quick start command line interface
+docker quick start
+minikube 
+
+
+annotate restcontroller in main class... 
+annotate getmapping
+need to write rEST API ... public string getmessage(){ return "welcome";
+}
